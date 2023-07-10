@@ -35,13 +35,13 @@ A modelagem possui oito entidades:
 
 Perguntas Respondidas :
 
-* empresa - area (n para n);
-* area - tecnologia (n para n);
-* area - projeto (1 para n);
-* tecnologia - projeto (1 para n);
-* projeto - contrato (1 para n)
-* empresa - contrato (1 para n);
-* colaborador - contrato (1 para 1 )
+* Selecionar a quantidade total de estudantes cadastrados no banco;
+* Selecionar quais pessoas facilitadoras atuam em mais de uma turma;
+* Crie uma view que selecione a porcentagem de estudantes com status de evasão agrupados por turma;
+* Crie um trigger para ser disparado quando o atributo status de um estudante for atualizado e inserir um novo dado em uma tabela de log;
+* 
+* 
+* 
 
 # Tecnologias Utilizadas
 - Draw.io
