@@ -1,6 +1,6 @@
 # QUERY-AND-JOIN-TECH
 
-[Imgur](https://i.imgur.com/vNWVocv.png)
+![ Query And Joy Tech ](https://i.imgur.com/vNWVocv.png)
 
 
 
