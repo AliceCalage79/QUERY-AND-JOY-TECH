@@ -24,10 +24,10 @@ estratégicos para a empresa.
 # Instruções de uso
 EXECUTAR OS SCRIPTS DENTRO DO PGADMIN 4 NA SEGUINTE ORDEM:
 
-1° CREATE-DATABASE
-2° FUNCTION-TRIGGER
-3° INSERT-DATABASE-RESILIA
-4° SCRIPT-DAS-PERGUNTAS
+* 1° CREATE-DATABASE
+* 2° FUNCTION-TRIGGER
+* 3° INSERT-DATABASE-RESILIA
+* 4° SCRIPT-DAS-PERGUNTAS
 
 # Funcionalidades
 
@@ -61,7 +61,7 @@ A modelagem possui oito entidades:
 Esse projeto foi desenvolvido por Alice Campos, Matheus Moraes, Aron Bernardo e Danylo Miranda.
 
 # Contato
-[Alice Campos](https://www.linkedin.com/in/alicecalagecampos/)
-[Aron Bernardo](https://www.linkedin.com/in/aron-bernardo-data-analytics/)
-[Danylo Miranda](https://www.linkedin.com/in/adm-danylo-miranda/)
-[Matheus Moraes](https://www.linkedin.com/in/mscordaro/)
+* [Alice Campos](https://www.linkedin.com/in/alicecalagecampos/)
+* [Aron Bernardo](https://www.linkedin.com/in/aron-bernardo-data-analytics/)
+* [Danylo Miranda](https://www.linkedin.com/in/adm-danylo-miranda/)
+* [Matheus Moraes](https://www.linkedin.com/in/mscordaro/)
