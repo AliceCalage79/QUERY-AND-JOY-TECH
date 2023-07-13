@@ -1,6 +1,6 @@
 # QUERY-AND-JOIN-TECH
 
-![Alt text](image-2.png)
+[Imgur](https://i.imgur.com/vNWVocv.png)
 
 
 
