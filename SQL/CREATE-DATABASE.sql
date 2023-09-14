@@ -1,21 +1,5 @@
 -- Database: Data_Base_Resilia
 
--- DROP DATABASE IF EXISTS "Data_Base_Resilia";
-
-CREATE DATABASE "Data_Base_Resilia"
-    WITH
-    OWNER = postgres
-    ENCODING = 'UTF8'
-    LC_COLLATE = 'Portuguese_Brazil.1252'
-    LC_CTYPE = 'Portuguese_Brazil.1252'
-    TABLESPACE = pg_default
-    CONNECTION LIMIT = -1
-    IS_TEMPLATE = False;
-
--- Table: public.tb_alunos
-
--- DROP TABLE IF EXISTS public.tb_alunos;
-
 CREATE TABLE IF NOT EXISTS public.tb_alunos
 (
     id integer NOT NULL,
